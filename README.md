@@ -1,5 +1,4 @@
-# About me
-## Reese Richardson (he/him)
+# Reese Richardson (he/him)
 
 I am a PhD candidate working in computational biology and epidemiology at Northwestern University.
 
