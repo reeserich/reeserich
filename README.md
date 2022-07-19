@@ -3,7 +3,7 @@
 I am a PhD candidate working in computational biology and epidemiology at Northwestern University.
 
 # Profiles & Links
-* [Amaral Lab (my home base)](amaral.northwestern.edu/people/richardson/)
+* [Amaral Lab (my home base)](https://amaral.northwestern.edu/people/richardson/)
 * [LinkedIn](https://www.linkedin.com/in/reese-richardson/)
 * [Google Scholar](https://scholar.google.com/citations?user=sEmS0tMAAAAJ&hl=en)
 * [ResearchGate](https://www.researchgate.net/profile/Reese-Richardson-2)
