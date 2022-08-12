@@ -1,6 +1,6 @@
 # Reese Richardson (he/him)
 
-I am a PhD candidate working in computational biology and epidemiology at Northwestern University.
+I am a PhD candidate working in computational biology, bioinformatics, and epidemiology at Northwestern University.
 
 # Check out my [résumé/CV](https://github.com/reeserich/reeserich/blob/main/Richardson_CV_20220811.pdf)!
 
