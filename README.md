@@ -2,7 +2,7 @@
 
 I am a PhD candidate working in computational biology, bioinformatics, and epidemiology at Northwestern University.
 
-# Check out my [résumé/CV](https://github.com/reeserich/reeserich/blob/main/Richardson_CV_20221010.pdf)!
+# Check out my [résumé/CV](https://github.com/reeserich/reeserich/blob/main/Richardson_CV_20221105.pdf)!
 
 # Profiles & Links
 * [Amaral Lab (my home base, site may not work in Chrome, try Firefox)](https://amaral.northwestern.edu/people/richardson/)
