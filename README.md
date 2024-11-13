@@ -1,8 +1,8 @@
 # Reese Richardson (he/him)
 
-I am a PhD candidate working in computational biology, bioinformatics, and epidemiology at Northwestern University.
+I am a newly-minted PhD working in metascience and computational biology at Northwestern University.
 
-# Check out my [résumé/CV](https://github.com/reeserich/reeserich/blob/main/Richardson_CV_20240618)!
+# Check out my [résumé/CV](https://github.com/reeserich/reeserich/blob/main/241113_richardson_cv)!
 
 # Profiles & Links
 * [Amaral Lab (my home base, site may not work in Chrome, try Firefox)](https://amaral.northwestern.edu/people/richardson/)
