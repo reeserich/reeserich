@@ -2,10 +2,11 @@
 
 I am a newly-minted PhD working in metascience and computational biology at Northwestern University.
 
-# Check out my [résumé/CV](https://github.com/reeserich/reeserich/blob/main/250910_richardson_cv.pdf)!
+# Check out my [résumé/CV](https://github.com/reeserich/reeserich/blob/main/250925_richardson_cv.pdf)!
 
 # Profiles & Links
-* [Amaral Lab (my home base, site may not work in Chrome, try Firefox)](https://amaral.northwestern.edu/people/richardson/)
+* [Center for Science of Science and Innovation (my current home base)](https://www.kellogg.northwestern.edu/academics-research/science-of-science/)
+* [Amaral Lab (my former home base, site may not work in Chrome, try Firefox)](https://amaral.northwestern.edu/people/richardson/)
 * [LinkedIn](https://www.linkedin.com/in/reese-richardson/)
 * [Google Scholar](https://scholar.google.com/citations?user=sEmS0tMAAAAJ&hl=en)
 * [ResearchGate](https://www.researchgate.net/profile/Reese-Richardson-2)
