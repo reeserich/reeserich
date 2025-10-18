@@ -2,7 +2,7 @@
 
 I am a newly-minted PhD working in metascience and computational biology at Northwestern University.
 
-# Check out my [résumé/CV](https://github.com/reeserich/reeserich/blob/main/250925_richardson_cv.pdf)!
+# Check out my [résumé/CV](https://github.com/reeserich/reeserich/blob/main/251018_richardson_cv.pdf)!
 
 # Profiles & Links
 * [Center for Science of Science and Innovation (my current home base)](https://www.kellogg.northwestern.edu/academics-research/science-of-science/)
